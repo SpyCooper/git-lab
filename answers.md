@@ -100,4 +100,65 @@ Changes to be committed:
 
 
 Answer 7:
+On branch master
+nothing to commit, working tree clean
 
+
+
+Answer 8:
+commit 153f0158ddb996ac0acbf8f36a00d32f53d63ed0 (HEAD -> master)
+Author: SpyCooper <jm578220@ohio.edu>
+Date:   Fri Sep 3 17:17:38 2021 -0400
+
+    Initial commit
+
+commit 448e761ceb0f0f82e6344fa1becc957ccba6523c
+Author: SpyCooper <jm578220@ohio.edu>
+Date:   Fri Sep 3 17:14:33 2021 -0400
+
+    Initial commit
+
+
+
+Answer 9:
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+
+
+Answer 10:
+Full name: Josh Myers
+GitHub user name: SpyCooper
+Email Address: jm578220@ohio.edu
+
+The answers to the lab is in the file called answers.md
+
+
+
+Answer 11:
+To https://github.com/SpyCooper/git-lab.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/SpyCooper/git-lab.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+
+
+Answer 12:
+Full name: Josh Myers
+GitHub user name: SpyCooper
+Email Address: jm578220@ohio.edu
+
+The answers to the lab is in the file called answers.md
+
+CS 2400,  Section 112
+
+
+
+Answer 13:
+.  ..  .git  .gitignore  README.md
